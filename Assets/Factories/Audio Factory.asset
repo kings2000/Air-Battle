@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47f7e6e1b4a61274499e466f66409c91, type: 3}
+  m_Name: Audio Factory
+  m_EditorClassIdentifier: 
+  ak47: {fileID: 8300000, guid: 326424ed828b9354f88a22ff86e3ac87, type: 3}
+  planeEngin: {fileID: 8300000, guid: 468c85ef375b5c34eaece873367d08c6, type: 3}
+  planeDie: {fileID: 8300000, guid: 19f21775639d82f4ab26a35e3b8399ad, type: 3}

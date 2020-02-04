@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5cde7ee41cb19d4ba445f5255c6a75d, type: 3}
+  m_Name: Plane Factory
+  m_EditorClassIdentifier: 
+  playerPref: {fileID: 2270110280449566449, guid: ec0748a5b73fcbc43b40b6c1b9fc7939,
+    type: 3}
+  botsPref: {fileID: 1975153860832757817, guid: fcf6e215cb19c744cad385b8b9138d03,
+    type: 3}
+  planeSkins:
+  - {fileID: 6194075168383287805, guid: afb220d3156cfa94486d4a3581394ab7, type: 3}
+  - {fileID: 678580411961001248, guid: cd067c955e35f3240a8f6fc4809a7b2f, type: 3}
+  - {fileID: 2151286388329742597, guid: f2835e037088e5f4f8aa934b5f121412, type: 3}
+  - {fileID: 1093652087237380, guid: e36870cd5484d4b4eb99ead452cb616a, type: 3}
